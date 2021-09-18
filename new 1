@@ -1,0 +1,16 @@
+container:960px
+
+12 x 60=720px
+
+11 x 20=220px
+       -------
+	    940px
+		
+
+<div class="container">---960px
+
+        <div class="grid_1">--60px
+		
+		
+		</div>
+</div>
